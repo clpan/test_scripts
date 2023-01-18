@@ -4,5 +4,5 @@ Not all are working.
 - [ ] matplotlib-kitty: used backend. Not working rn
 - [ ] matplotlib-sixel: untested
 - [x] nvim-hologram: to display png directly inside neovim editor console
-- [ ]python: this currently only is to test python basic plotting, not using matplotlib
-- [x]tex: seems working ok
+- [ ] python: this currently only is to test python basic plotting, not using matplotlib
+- [x] tex: seems working ok
