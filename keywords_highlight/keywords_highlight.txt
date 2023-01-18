@@ -1,0 +1,17 @@
+## self group
+self
+a sentense with self in it.
+a sentense with "self" in it.
+
+## todo group
+todo
+TODO
+#todo
+#TODO
+# todo
+# TODO
+a sentense with # todo in it
+a sentense with #todo in it
+a sentense with todo in it
+
+

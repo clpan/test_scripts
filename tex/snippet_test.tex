@@ -1,0 +1,28 @@
+% test snippets.
+% comment ones:
+% fig -- type "fig" and hit 'tab' to expand snippets
+% ff -- type 'ff' and hit 'tab' to expand snippets to fraction
+% mm -- expand to inline math
+% ee -- expand to eurla symbol: e^{}
+
+% modify tex snippets:
+% in `init.nvim`, use user-defined command `:Texs` to open 'tex.snippets' file 
+
+% find the path:
+% :echo g:UltiSnipsSnippetDirectories
+
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{}
+    \caption{}
+    \label{fig:}
+\end{figure}
+
+\frac{}{}  % cursor should be in the first curly bracets
+
+$move cursor here to show dollar signs$
+
+
+e^{}  % cursor should be inside the curly brackets
+

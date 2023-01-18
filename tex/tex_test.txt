@@ -1,0 +1,6 @@
+1. test Joyner format. All doc is in /JDF.
+the tex doc can be obtained here:
+https://drive.google.com/drive/folders/1xDYIomn9e9FxbIeFcsclSbXHTtHROD1j?usp=share_link
+
+pandoc, tex and other doc:
+https://github.com/iamjakewarner/jdf
